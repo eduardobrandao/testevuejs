@@ -51,7 +51,7 @@ $ npm install
 $ yarn start
 $ npm start
 
-#### O servidor iniciará na porta: 3000 - acesse <http://localhost:8080>
+#### O servidor iniciará na porta: 8080 - acesse <http://localhost:8080>
 
 #### buildando a aplicação, Podemos dar um desses comandos abaixo
 
